@@ -4,7 +4,7 @@
     "jpsVersion": "0.2",
     "id": "rocketchat2",
     "type": "nodejs",
-    "version": "5.1.0",
+    "version": "4.3.0",
     "logo": "https://raw.githubusercontent.com/layershift/rocketchat-jps/master/images/rocket.png",
     "description": "Rocket.Chat is a Web Chat Server, developed in JavaScript, using the Meteor fullstack framework.<br><br>It is a great solution for communities and companies wanting to privately host their own chat service or for developers looking forward to build and evolve their own chat platforms.",
         "nodes": [{
@@ -77,7 +77,7 @@
                         "deploy": [{
                                 "name": "Rocket Chat",
                                 "context": "ROOT",
-                                "archive": "https://releases.rocket.chat/5.1.0/download"
+                                "archive": "https://releases.rocket.chat/4.3.0/download"
                             }
                         ]
                     }
