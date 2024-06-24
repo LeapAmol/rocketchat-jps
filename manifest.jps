@@ -77,7 +77,7 @@
                         "deploy": [{
                                 "name": "Rocket Chat",
                                 "context": "ROOT",
-                                "archive": "https://releases.rocket.chat/latest/download"
+                                "archive": "https://releases.rocket.chat/4.3.0/download"
                             }
                         ]
                     }
